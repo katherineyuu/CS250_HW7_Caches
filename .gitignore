@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+cachesim
+*.class
+
+tests/*actual*.txt
+tests/*diff*.txt

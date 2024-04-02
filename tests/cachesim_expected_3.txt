@@ -1,0 +1,61 @@
+load 0x0 miss 00
+load 0x3f hit 00
+load 0x40 miss 00
+load 0x7f hit 00
+replacement 0x0 clean
+load 0x800 miss 00
+load 0x83f hit 00
+replacement 0x40 clean
+load 0x840 miss 00
+load 0x87f hit 00
+replacement 0x800 clean
+load 0x0 miss 00
+load 0x3f hit 00
+replacement 0x840 clean
+load 0x40 miss 00
+load 0x7f hit 00
+replacement 0x0 clean
+load 0x800 miss 00
+load 0x83f hit 00
+replacement 0x40 clean
+load 0x840 miss 00
+load 0x87f hit 00
+replacement 0x800 clean
+load 0x100a miss 00
+replacement 0x840 clean
+load 0x104b miss 00
+load 0x108c miss 00
+load 0x10cd miss 00
+load 0x110e miss 00
+load 0x114f miss 00
+replacement 0x1080 clean
+load 0x94 miss 00
+replacement 0x80 clean
+load 0x895 miss 00
+replacement 0x880 clean
+load 0x1096 miss 00
+replacement 0x1080 clean
+load 0x1897 miss 00
+replacement 0x1880 clean
+load 0x2098 miss 00
+replacement 0x2080 clean
+load 0x2899 miss 00
+load 0x100a hit 00
+load 0x104b hit 00
+replacement 0x2880 clean
+load 0x108c miss 00
+load 0x10cd hit 00
+load 0x110e hit 00
+load 0x114f hit 00
+replacement 0x1080 clean
+load 0x94 miss 00
+replacement 0x80 clean
+load 0x895 miss 00
+replacement 0x880 clean
+load 0x1096 miss 00
+replacement 0x1080 clean
+load 0x1897 miss 00
+replacement 0x1880 clean
+load 0x2098 miss 00
+replacement 0x2080 clean
+load 0x2899 miss 00
